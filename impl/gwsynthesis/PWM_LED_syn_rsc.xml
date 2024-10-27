@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="PWM_LED" Register="26" Alu="24" Lut="17" T_Register="26(26)" T_Alu="24(24)" T_Lut="17(17)"/>
